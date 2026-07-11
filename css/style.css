@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 88px;
+	padding: 0 72px;
+background-color: #000000;
+}
+
+.menu {
+	display: flex;
+	align-items: center;
+}
+
+.menu a {
+	color: #ffffff;
+	text-decoration: none;
+	margin: 0 24px;
+}
+
+.contact-button {
+	display: inline-flex;
+	align-items: center;
+	background-color: #5221E6;
+	height: 88px;
+}
