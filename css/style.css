@@ -90,3 +90,9 @@
 .description {
   font-size: 18px;
 }
+
+.experience-section {
+  background-color: #000000;
+  padding: 120px 72px;
+  color: #ffffff;
+}
